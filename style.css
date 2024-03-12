@@ -23,3 +23,8 @@ body {
   justify-content: space-around;
   flex-wrap: wrap;
 }
+
+.heading-h2 {
+  color: #d55b3d;
+  font-size: 40px;
+}
