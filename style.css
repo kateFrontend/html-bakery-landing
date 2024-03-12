@@ -17,3 +17,9 @@ body {
   color: #d55b3d;
   font-size: 60px;
 }
+
+.images-section {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
