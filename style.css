@@ -1,8 +1,19 @@
 body {
   margin: 0;
   background-color: #fbeee0;
+  font-family: "Montserrat";
 }
 
 #myBakery {
   width: 100%;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+  color: #d55b3d;
+  font-size: 60px;
 }
