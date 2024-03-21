@@ -32,3 +32,29 @@ body {
 .picture {
   margin: 40px;
 }
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  background-color: #ffbdb0;
+  width: 350px;
+  height: 580px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.item-name {
+  color: #d55b3d;
+}
+
+ul {
+  background-color: #fbeee0;
+  color: #7c7575;
+  border-radius: 5px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
