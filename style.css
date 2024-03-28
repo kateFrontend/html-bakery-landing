@@ -79,3 +79,24 @@ ins {
   font-size: 30px;
   color: #52616b;
 }
+
+@media all and (max-width: 800px) {
+  .wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  img {
+    width: 90%;
+  }
+
+  .header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .heading-h2,
+  .heading {
+    font-size: 20px;
+  }
+}
