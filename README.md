@@ -7,6 +7,7 @@
 A simple landing page for a bakery shop to study the positioning of elements on an html page.
 
 The project goal:
+- use semantic layout;
 - create differents sections;
 - add and position images to the page;
 - learn to use Flexbox;
